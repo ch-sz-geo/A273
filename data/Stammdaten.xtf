@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ili:transfer
+  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Geschwindigkeitsmessanlagen_V1"
+  xmlns:ili="http://www.interlis.ch/xtf/2.4/INTERLIS"
+  xmlns:geom="http://www.interlis.ch/geometry/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:Units="http://www.interlis.ch/xtf/2.4/Units">
+  <ili:headersection>
+    <ili:models>
+      <ili:model>SZ_Geschwindigkeitsmessanlagen_V1</ili:model>
+    </ili:models>
+    <ili:sender>AGI SZ</ili:sender>
+  </ili:headersection>
+  <ili:datasection>
+    <Stammdaten ili:bid="ch.sz.a273.stammdaten.2000-01-01">
+      <Anlagetyp ili:tid="85ca0934-57e2-42a6-8bb2-96e832be311d"><Name>fix</Name><Code>fix</Code><SortierNr>0</SortierNr><Bemerkung></Bemerkung></Anlagetyp>
+      <Anlagetyp ili:tid="d947c00d-90a9-42d9-9992-07e9ad901534"><Name>mobil</Name><Code>mobil</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Anlagetyp>
+    </Stammdaten>
+  </ili:datasection>
+</ili:transfer>
