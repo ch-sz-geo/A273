@@ -8,14 +8,9 @@ Bei der Bewirtschaftung eines Themas gibt es Attribute, deren Werte nicht frei e
 |===
 | Modell +
 (Version) | gültig ab | Beschreibung | Link
-| SZ_Oekomorphologie_Fliessgewaesser_V1_1 +
-(2024-07-24)
-| 2024-07-24
-| Diese Datei enthält die aktuell gültigen Stammdaten für die Datenerfassung.
-| https://raw.githubusercontent.com/ch-sz-geo/A026/7d038975228cc1dadba83475fcdebe8459195881/data/Stammdaten.xtf[*Datei*]
-| SZ_Oekomorphologie_Fliessgewaesser_V1 +
-(2024-01-04)
+| SZ_Geschwindigkeitsmessanlagen_V1 +
+(2026-10-30)
 | 2000-01-01
-| Diese Datei enthält die Stammdaten der Modellversion V1. Sie wurde aus der internen Dateiablage hochgeladen, damit die Historie über GitHub vorhanden ist. In dieser Dateiversion fehlt die Versionskennung bei der Stammdaten-BID. 
-| https://raw.githubusercontent.com/ch-sz-geo/A026/c76e0d5f58182e4473d1c72f48dc913b7ff4e5cd/data/Stammdaten.xtf[*Datei*]
+| Diese Datei enthält die aktuell gültigen Stammdaten für die Datenerfassung.
+| https://raw.githubusercontent.com/ch-sz-geo/A273/7d038975228cc1dadba83475fcdebe8459195881/data/Stammdaten.xtf[*Datei*]
 |===
