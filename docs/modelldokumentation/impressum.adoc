@@ -1,15 +1,15 @@
 [discrete]
-=== [todo] Impressum
+=== Impressum
 
 *Erstellung*
 [cols="1, 3"]
 |===
-| Erstelldatum | 2024-01-01
+| Erstelldatum | 2026-10-30
 | letzte Änderung | {docdate}
-| Themen-Nummer | Annn
+| Themen-Nummer | A273
 | ID nach kGeoiV | --- 
-| Beteiligte | Vorname Nachname, Fachexperte (<Kürzel>), Amt 1 + 
-Vorname Nachname, Modellierer (<Kürzel>), Amt für Geoinformation
+| Beteiligte | Roman Gisler, Fachexperte (RG), Kantonspolizei Schwyz + 
+Silvana Deplazes, Modelliererin (sde), Amt für Geoinformation
 |===
 
 *referenzierte Dokumente*

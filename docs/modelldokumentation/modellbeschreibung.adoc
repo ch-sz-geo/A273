@@ -1,6 +1,8 @@
-== [todo] Modellbeschreibung
+== Modellbeschreibung
 
-<Beschreibung einfügen>
+Das Datenmodell beschreibt die Standorte der Geschwindigkeitsmessanlagen, welche durch die Kantonspolizei Schwyz betrieben werden. 
+
+Es dient der strukturierten Erfassung, Verwaltung und Bereitstellung von Informationen zu den Geschwindigkeitsmessanlagen im Kanton Schwyz. Die erfassten Daten umfassen insbesondere den Anlagetyp, die geografische Lage, die Standortinformationen sowie den Betriebsstatus der jeweiligen Anlage.
 
 ifdef::backend-pdf[]
 <<<

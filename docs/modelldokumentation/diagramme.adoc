@@ -1,11 +1,11 @@
 == Diagramme
-=== [todo] Komponentendiagramm
-image::../img/Komponentendiagramm.jpg[]
+=== Komponentendiagramm
+image::../img/Komponentendiagramm.png[]
 
-=== [todo] Klassendiagramm
-image::../img/Klassendiagramm.jpg[]
+=== Klassendiagramm
+image::../img/Klassendiagramm.png[]
 
-image::../img/Legende Klassendiagramm Variante 1.jpg[width=350]
+image::../img/Legende Klassendiagramm Variante 5.jpg[width=350]
 
 ifdef::backend-pdf[]
 <<<
