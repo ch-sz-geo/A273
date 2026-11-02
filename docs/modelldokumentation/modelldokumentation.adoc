@@ -1,4 +1,4 @@
-:title: <Themenname> (<Themennummer>)
+:title: Geschwindigkeitsmessanlagen (A273)
 :subtitle: Modelldokumentation
 ifdef::backend-pdf[]
 = {title}
