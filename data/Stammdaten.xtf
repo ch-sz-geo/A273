@@ -14,7 +14,7 @@
   <ili:datasection>
     <Stammdaten ili:bid="ch.sz.a273.stammdaten.2000-01-01">
       <Anlagetyp ili:tid="85ca0934-57e2-42a6-8bb2-96e832be311d"><Name>fix</Name><Code>fix</Code><SortierNr>0</SortierNr><Bemerkung></Bemerkung></Anlagetyp>
-      <Anlagetyp ili:tid="d947c00d-90a9-42d9-9992-07e9ad901534"><Name>mobil</Name><Code>mobil</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Anlagetyp>
+      <Anlagetyp ili:tid="d947c00d-90a9-42d9-9992-07e9ad901534"><Name>temporär</Name><Code>temporaer</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Anlagetyp>
     </Stammdaten>
   </ili:datasection>
 </ili:transfer>
