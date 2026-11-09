@@ -102,11 +102,6 @@ m| Geometrie
 
 
 
-[%header, cols="10%, 10%, 10%, 60%, 10%", format=csv, separator=;]
-|=======
-include::../table/klasse_katalogeintrag.csv[]
-|=======
-
 ifdef::backend-pdf[]
 <<<
 endif::[]
